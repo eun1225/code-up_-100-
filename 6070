@@ -1,0 +1,9 @@
+s = int(input())
+if s==3 or s==4 or s==5:
+    print('spring')
+if s==6 or s==7 or s==8:
+    print('summer')
+if s==9 or s==10 or s==11:
+    print('fall')
+if s==12 or s==1 or s==2:
+    print('winter')
